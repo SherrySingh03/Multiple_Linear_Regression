@@ -1,3 +1,6 @@
+#Multiple Linear Regression Program
+#Sharandeep Singh
+
 from contextlib import suppress
 from os import error
 import pandas as pd
